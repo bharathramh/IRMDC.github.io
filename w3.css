@@ -26,7 +26,7 @@ legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}t
 /* End extract */
 @font-face {
   font-family:"Nunito";
-  src: url("font/Nunito-Regular.ttf") format("truetype");
+  src: url("Nunito-Regular.ttf") format("truetype");
 }
 *{font-family:'Nunito'}
 html,body{font-family:'Nunito',sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
